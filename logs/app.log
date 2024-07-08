@@ -1,0 +1,25 @@
+08-07-2024 16:21:26.862 [main] INFO  org.stablex.utils.ConfigManager - Application properties loaded successfully.
+08-07-2024 16:21:27.161 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - ::::::::::::::: TEST INFORMATION :::::::::::::::
+08-07-2024 16:21:27.161 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - Executing scenario: Successful retrieval of dog breeds
+08-07-2024 16:21:27.167 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - ----------------- Scenario Successfully Passed -----------------
+08-07-2024 16:22:38.180 [main] INFO  org.stablex.utils.ConfigManager - Application properties loaded successfully.
+08-07-2024 16:22:38.708 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - ::::::::::::::: TEST INFORMATION :::::::::::::::
+08-07-2024 16:22:38.708 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - Executing scenario: Successful retrieval of dog breeds
+08-07-2024 16:22:38.719 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - ----------------- Scenario Successfully Passed -----------------
+08-07-2024 16:24:15.952 [main] INFO  org.stablex.utils.ConfigManager - Application properties loaded successfully.
+08-07-2024 16:24:16.374 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - ::::::::::::::: TEST INFORMATION :::::::::::::::
+08-07-2024 16:24:16.375 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - Executing scenario: Successful retrieval of dog breeds
+08-07-2024 16:24:16.386 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - ----------------- Scenario Successfully Passed -----------------
+08-07-2024 16:26:06.532 [pool-3-thread-1] INFO  org.stablex.utils.ConfigManager - Application properties loaded successfully.
+08-07-2024 16:26:06.816 [pool-3-thread-1] INFO  org.stablex.stepdefinitions.hooks.Hooks - ::::::::::::::: TEST INFORMATION :::::::::::::::
+08-07-2024 16:26:06.817 [pool-3-thread-1] INFO  org.stablex.stepdefinitions.hooks.Hooks - Executing scenario: Successful retrieval of dog breeds
+08-07-2024 16:26:06.826 [pool-3-thread-1] INFO  org.stablex.stepdefinitions.users.DogBreeds - Making GET request to URL: https://dogapi.dog/api/v2/breeds
+08-07-2024 16:26:08.581 [pool-3-thread-1] INFO  org.stablex.stepdefinitions.users.DogBreeds - Checking if response status code <200> matches expected status code <200>
+08-07-2024 16:26:08.583 [pool-3-thread-1] INFO  org.stablex.stepdefinitions.hooks.Hooks - ----------------- Scenario Successfully Passed -----------------
+08-07-2024 16:27:31.960 [main] INFO  org.stablex.utils.ConfigManager - Application properties loaded successfully.
+08-07-2024 16:27:32.444 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - ::::::::::::::: TEST INFORMATION :::::::::::::::
+08-07-2024 16:27:32.445 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - Executing scenario: Successful retrieval of dog breeds
+08-07-2024 16:27:32.454 [main] INFO  org.stablex.stepdefinitions.hooks.Hooks - ----------------- Scenario Successfully Passed -----------------
+08-07-2024 17:08:09.673 [main] INFO  org.stablex.utils.ConfigManager - Application properties loaded successfully.
+08-07-2024 17:08:10.729 [main] INFO  org.stablex.stepdefinitions.users.DogBreeds - Making GET request to URL: https://dogapi.dog/api/v2/breeds
+08-07-2024 17:08:14.402 [main] INFO  org.stablex.stepdefinitions.users.DogBreeds - Checking if response status code <200> matches expected status code <200>
